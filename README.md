@@ -6,7 +6,7 @@ DESCRIPTION
 ===========
 
 This project builds a Docker container which has Ubuntu 14.04 and all the VirtualBox dependencies installed and
-then runs the Docker configuration and build steps.
+then runs the VirtualBox configuration and build steps.
 
 STEPS
 =====
